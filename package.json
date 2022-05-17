@@ -121,7 +121,7 @@
     "@types/lodash": "^4.14.169",
     "@types/react": "^17.0.6",
     "@types/react-dom": "^17.0.5",
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "await-sleep": "0.0.1",
     "babel-eslint": "^10.1.0",
     "babel-plugin-styled-components": "^1.12.0",
